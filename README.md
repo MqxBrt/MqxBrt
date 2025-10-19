@@ -1,9 +1,13 @@
 <h1 align="center">Mqx Brt</h1>
 <h3 align="center">Software Engineer</h3>
 
-- Full Stack Developper **@ Cilcare**
 
-- Computer Science Masters Degree **@ Montpellier University (FRANCE)**
+<h3 align="left">Job & education</h3>
+<p align="left">
+Full Stack Developper **@ Cilcare**
+
+Computer Science Masters Degree **@ Montpellier University (FRANCE)**
+</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
