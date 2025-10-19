@@ -5,7 +5,7 @@
 
 - Computer Science Masters Degree **@ Montpellier University (FRANCE)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
     <a href="https://linkedin.com/in/maxime-bourret" target="blank">
         <img align="center"
@@ -15,7 +15,7 @@
 
 </p>
 
-<h3 align="left">Current languages and tools</h3>
+<h3 align="left">Main languages and tools</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
